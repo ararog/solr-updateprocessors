@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<attribute-mapping>
+	<map from="https?://www\.tjgo\.jus\.br/index\.php\?sec=comarcas.*" to1="comarcas"/>
+	<map from="https?://www\.tjgo\.jus\.br/docs/comarcas/.*" to1="comarcas"/>
+	<map from="https?://www\.tjgo\.jus\.br/index\.php\?sec=concursos.*" to1="concursos"/>
+	<map from="https?://www\.tjgo\.jus\.br/docs/concursos/.*" to1="concursos"/>
+	<map from="https?://www\.tjgo\.jus\.br/index\.php\?sec=consultas.*" to1="consultas"/>
+	<map from="https?://www\.tjgo\.jus\.br/docs/consultas/.*" to1="consultas"/>
+	<map from="https?://www\.tjgo\.jus\.br/corregedoria/.*" to1="corregedoria"/>
+	<map from="https?://www\.tjgo\.jus\.br/index\.php\?sec=institucional.*" to1="institucional"/>
+	<map from="https?://www\.tjgo\.jus\.br/docs/institucional/.*" to1="institucional"/>
+	<map from="https?://www\.tjgo\.jus\.br/index\.php\?sec=ouvidoria.*" to1="ouvidoria"/>
+	<map from="https?://www\.tjgo\.jus\.br/docs/ouvidoria/.*" to1="ouvidoria"/>
+	<map from="https?://www\.tjgo\.jus\.br/index\.php\?sec=publicacoes.*" to1="publicacoes"/>
+	<map from="https?://www\.tjgo\.jus\.br/docs/publicacoes/.*" to1="publicacoes"/>
+	<map from="https?://www\.tjgo\.jus\.br/index\.php\?sec=servicos.*" to1="servicos"/>
+	<map from="https?://www\.tjgo\.jus\.br/docs/servicos/.*" to1="servicos"/>
+	<map from="https?://www\.tjgo\.jus\.br/bw/.*" to1="noticias"/>
+</attribute-mapping>

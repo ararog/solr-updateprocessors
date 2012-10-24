@@ -4,9 +4,9 @@ def processAdd(cmd):
         
  	doc = cmd.solrDoc
 
-	_fromValue = str(doc.getFieldValue(_fromField));
-	if _fromValue is not None and len(_fromValue) > 0:
-	      	doc.setField(_toField, _fromValue)
+	_fromValue = doc.getFieldValue(_fromField)
+	if _fromValue is not None:
+	      	doc.setField(_toField, str(_fromValue))
 
 	logger.info("FieldReplacer#processAdd")	
 

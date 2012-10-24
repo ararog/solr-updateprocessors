@@ -8,17 +8,18 @@ def processAdd(cmd):
         if not filename:
             return
         try:
-	    f = open(filename, 'r')
-            entries = f.readlines()
+		f = open(filename, 'r')
+		_entries = f.readlines()
         except:
-            logger.info('Error loading source file "%s" from path' % filename)
+		logger.info('Error loading source file "%s" from path' % filename)
   
- 	doc = cmd.solrDoc
+	doc = cmd.solrDoc
 
-        fromvalue = str(doc.getFieldValue(_fromField));
-        for term in _entries:
-            if term in fromvalue:
-                doc.addField(_toField, term)
+	fromvalue = doc.getFieldValue(_fromField)
+	for term in _entries:
+		term = term.strip()
+        	if term in fromvalue:
+                	doc.addField(_toField, term)
 
 	logger.info("FieldLookup#processAdd")	
 

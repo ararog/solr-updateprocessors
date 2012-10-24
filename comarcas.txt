@@ -1,243 +1,245 @@
-Abadia de Goias
-Abadiania
-Acreuna
-Adelandia
-Agua Fria de Goias
-Agua Limpa
-Aguas Lindas de Goias
-Alexania
-Aloandia
-Alto Horizonte
-Alto Paraiso de Goias
-Alvorada do Norte
-Amaralina
-Americano do Brasil
-Amorinopolis
-Anapolis
-Anhanguera
-Anicuns
-Aparecida de Goiania
-Aparecida do Rio Doce
-Apore
-Aracu
-Aragarcas
-Aragoiania
-Araguapaz
-Arenopolis
-Aruana
-Aurilandia
-Avelinopolis
-Baliza
-Barro Alto
-Bela Vista de Goias
-Bom Jardim de Goias
-Bom Jesus de Goias
-Bonfinopolis
-Bonopolis
-Brasilia
-Brazabrantes
-Britania
-Buriti Alegre
-Buriti de Goias
-Buritinopolis
-Cabeceiras
-Cachoeira Alta
-Cachoeira Dourada
-Cachoeira de Goias
-Cacu
-Caiaponia
-Caldas Novas
-Caldazinha
-Campestre de Goias
-Campinacu
-Campinorte
-Campo Alegre de Goias
-Campos Belos
-Campos Verdes
-Carmo do Rio Verde
-Castelandia
-Catalao
-Caturai
-Cavalcante
-Ceres
-Cezarina
-Chapadao do Ceu
-Cidade Ocidental
-Cocalzinho de Goias
-Colinas do Sul
-Corrego do Ouro
-Corumba de Goias
-Corumbaiba
-Cristalina
-Cristianopolis
-Crixas
-Crominia
-Cumari
-Damianopolis
-Damolandia
-Davinopolis
-Diorama
-Divinopolis de Goias
-Doverlandia
-Edealina
-Edeia
-Estrela do Norte
-Faina
-Fazenda Nova
-Firminopolis
-Flores de Goias
-Formosa
-Formoso
-Goianapolis
-Goiandira
-Goianesia
-Goiania
-Goianira
-Goias
-Goiatuba
-Gouvelandia
-Guapo
-Guaraita
-Guarani de Goias
-Guarinos
-Heitorai
-Hidrolandia
-Hidrolina
-Iaciara
-Inaciolandia
-Indiara
-Inhumas
-Ipameri
-Ipora
-Israelandia
-Itaberai
-Itaguari
-Itaguaru
-Itaja
-Itapaci
-Itapirapua
-Itapuranga
-Itaruma
-Itaucu
-Itumbiara
-Ivolandia
-Jandaia
-Jaragua
-Jatai
-Jaupaci
-Jesupolis
-Joviania
-Jussara
-Leopoldo de Bulhoes
-Luziania
-Mairipotaba
-Mambai
-Mara Rosa
-Marzagao
-Matrincha
-Maurilandia
-Mimoso de Goias
-Minacu
-Mineiros
-Moipora
-Monte Alegre de Goias
-Montes Claros de Goias
-Montividiu do Norte
-Montividiu
-Morrinhos
-Morro Agudo de Goias
-Mossamedes
-Mozarlandia
-Mundo Novo
-Mutunopolis
-Nazario
-Neropolis
-Niquelandia
-Nova America
-Nova Aurora
-Nova Crixas
-Nova Gloria
-Nova Iguacu de Goias
-Nova Roma
-Nova Veneza
-Novo Brasil
-Novo Gama
-Novo Planalto
-Orizona
-Ouro Verde de Goias
-Ouvidor
-Padre Bernardo
-Palestina de Goias
-Palmeiras de Goias
-Palmelo
-Palminopolis
-Panama
-Paranaiguara
-Parauna
-Perolandia
-Petrolina de Goias
-Pilar de Goias
-Piracanjuba
-Piranhas
-Pirenopolis
-Pires do Rio
-Planaltina
-Pontalina
-Porangatu
-Porteirao
-Portelandia
-Posse
-Professor Jamil
-Quirinopolis
-Rialma
-Rianapolis
-Rio Quente
-Rio Verde
-Rubiataba
-Sanclerlandia
-Santa Barbara de Goias
-Santa Cruz de Goias
-Santa Fe de Goias
-Santa Helena de Goias
-Santa Isabel
-Santa Rita do Araguaia
-Santa Rita do Novo Destino
-Santa Rosa de Goias
-Santa Tereza de Goias
-Santa Terezinha de Goias
-Santo Antonio da Barra
-Santo Antonio de Goias
-Santo Antonio do Descoberto
-Sao Domingos
-Sao Francisco de Goias
-Sao Joao d'Alianca
-Sao Joao da Parauna
-Sao Luis de Montes Belos
-Sao Luiz do Norte
-Sao Miguel do Araguaia
-Sao Miguel do Passa Quatro
-Sao Patricio
-Sao Simao
-Senador Canedo
-Serranopolis
-Silvania
-Simolandia
-Sitio d'Abadia
-Taquaral de Goias
-Teresina de Goias
-Terezopolis de Goias
-Tres Ranchos
-Trindade
-Trombas
-Turvania
-Turvelandia
-Uirapuru
-Uruacu
-Uruana
-Urutai
-Valparaiso de Goias
-Varjao
-Vianopolis
-Vicentinopolis
+Abadia de Goiás	
+Abadiânia	
+Acreúna	
+Adelândia	
+Água Fria de Goiás	
+Água Limpa	
+Águas Lindas de Goiás	
+Alexânia	
+Aloândia	
+Alto Horizonte	
+Alto Paraíso de Goiás	
+Alvorada do Norte	
+Amaralina	
+Americano do Brasil	
+Amorinópolis	
+Anápolis	
+Anhanguera	
+Anicuns	
+Aparecida de Goiânia	
+Aparecida do Rio Doce	
+Aporé	
+Araçu	
+Aragarças	
+Aragoiânia	
+Araguapaz	
+Arenópolis	
+Aruanã	
+Aurilândia	
+Avelinópolis	
+Baliza	
+Barro Alto	
+Bela Vista de Goiás	
+Bom Jardim de Goiás	
+Bom Jesus de Goiás	
+Bonfinópolis	
+Bonópolis	
+Brazabrantes	
+Britânia	
+Buriti Alegre	
+Buriti de Goiás	
+Buritinópolis	
+Cabeceiras	
+Cachoeira Alta	
+Cachoeira de Goiás	
+Cachoeira Dourada	
+Caçu	
+Caiapônia	
+Caldas Novas	
+Caldazinha	
+Campestre de Goiás	
+Campinaçu	
+Campinorte	
+Campo Alegre de Goiás	
+Campo Limpo de Goiás	
+Campos Belos	
+Campos Verdes	
+Carmo do Rio Verde	
+Castelândia	
+Catalão	
+Caturaí	
+Cavalcante	
+Ceres	
+Cezarina	
+Chapadão do Céu	
+Cidade Ocidental	
+Cocalzinho de Goiás	
+Colinas do Sul	
+Córrego do Ouro	
+Corumbá de Goiás	
+Corumbaíba	
+Cristalina	
+Cristianópolis	
+Crixás	
+Cromínia	
+Cumari	
+Damianópolis	
+Damolândia	
+Davinópolis	
+Diorama	
+Divinópolis de Goiás	
+Doverlândia	
+Edealina	
+Edéia	
+Estrela do Norte	
+Faina	
+Fazenda Nova	
+Firminópolis	
+Flores de Goiás	
+Formosa	
+Formoso	
+Gameleira de Goiás	
+Goianápolis	
+Goiandira	
+Goianésia	
+Goianira	
+Goiás	
+Goiatuba	
+Gouvelândia	
+Guapó	
+Guaraíta	
+Guarani de Goiás	
+Guarinos	
+Heitoraí	
+Hidrolândia	
+Hidrolina	
+Iaciara	
+Inaciolândia	
+Indiara	
+Inhumas	
+Ipameri	
+Ipiranga de Goiás	
+Iporá	
+Israelândia	
+Itaberaí	
+Itaguari	
+Itaguaru	
+Itajá	
+Itapaci	
+Itapirapuã	
+Itapuranga	
+Itarumã	
+Itauçu	
+Itumbiara	
+Ivolândia	
+Jandaia	
+Jaraguá	
+Jataí	
+Jaupaci	
+Jesúpolis	
+Joviânia	
+Jussara	
+Lagoa Santa	
+Leopoldo de Bulhões	
+Luziânia	
+Mairipotaba	
+Mambaí	
+Mara Rosa	
+Marzagão	
+Matrinchã	
+Maurilândia	
+Mimoso de Goiás	
+Minaçu	
+Mineiros	
+Moiporá	
+Monte Alegre de Goiás	
+Montes Claros de Goiás	
+Montividiu	
+Montividiu do Norte	
+Morrinhos	
+Morro Agudo de Goiás	
+Mossâmedes	
+Mozarlândia	
+Mundo Novo	
+Mutunópolis	
+Nazário	
+Nerópolis	
+Niquelândia	
+Nova América	
+Nova Aurora	
+Nova Crixás	
+Nova Glória	
+Nova Iguaçu de Goiás	
+Nova Roma	
+Nova Veneza	
+Novo Brasil	
+Novo Gama	
+Novo Planalto	
+Orizona	
+Ouro Verde de Goiás	
+Ouvidor	
+Padre Bernardo	
+Palestina de Goiás	
+Palmeiras de Goiás	
+Palmelo	
+Palminópolis	
+Panamá	
+Paranaiguara	
+Paraúna	
+Perolândia	
+Petrolina de Goiás	
+Pilar de Goiás	
+Piracanjuba	
+Piranhas	
+Pirenópolis	
+Pires do Rio	
+Planaltina	
+Pontalina	
+Porangatu	
+Porteirão	
+Portelândia	
+Posse	
+Professor Jamil	
+Quirinópolis	
+Rialma	
+Rianápolis	
+Rio Quente	
+Rio Verde	
+Rubiataba	
+Sanclerlândia	
+Santa Bárbara de Goiás	
+Santa Cruz de Goiás	
+Santa Fé de Goiás	
+Santa Helena de Goiás	
+Santa Isabel	
+Santa Rita do Araguaia	
+Santa Rita do Novo Destino	
+Santa Rosa de Goiás	
+Santa Tereza de Goiás	
+Santa Terezinha de Goiás	
+Santo Antônio da Barra	
+Santo Antônio de Goiás	
+Santo Antônio do Descoberto	
+São Domingos	
+São Francisco de Goiás	
+São João d`Aliança	
+São João da Paraúna	
+São Luís de Montes Belos	
+São Luíz do Norte	
+São Miguel do Araguaia	
+São Miguel do Passa Quatro	
+São Patrício	
+São Simão	
+Senador Canedo	
+Serranópolis	
+Silvânia	
+Simolândia	
+Sítio d`Abadia	
+Taquaral de Goiás	
+Teresina de Goiás	
+Terezópolis de Goiás	
+Três Ranchos	
+Trindade	
+Trombas	
+Turvânia	
+Turvelândia	
+Uirapuru	
+Uruaçu	
+Uruana	
+Urutaí	
+Valparaíso de Goiás	
+Varjão	
+Vianópolis	
+Vicentinópolis	
 Vila Boa
-Vila Propicio
+Vila Propício

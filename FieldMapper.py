@@ -36,7 +36,7 @@ def processAdd(cmd):
         fromvalue = str(doc.getFieldValue(_fromField));
         for creg, tovalue in _regexps:
             if creg.match(fromvalue)!= None:
-                doc.addField(_toField, tovalue)
+                doc.setField(_toField, tovalue)
 		break
 
 	logger.info("FieldMapper#processAdd: url=" + fromvalue)	
